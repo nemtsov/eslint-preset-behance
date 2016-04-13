@@ -1,0 +1,16 @@
+{
+  "name": "eslint-preset-behance",
+  "version": "1.0.0",
+  "description": "ESLint preset for Behance",
+  "main": ".eslintrc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behance/eslint-preset-behance.git"
+  },
+  "author": "Kai Cataldo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/behance/eslint-preset-behance/issues"
+  },
+  "homepage": "https://github.com/behance/eslint-preset-behance#readme"
+}
