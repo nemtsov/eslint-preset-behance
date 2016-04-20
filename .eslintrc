@@ -32,7 +32,7 @@
     "no-dupe-args": "error",
     "no-dupe-class-members": "error",
     "no-dupe-keys": "error",
-    "no-empty": ["error", { "allowEmptyCatch": true }]
+    "no-empty": ["error", { "allowEmptyCatch": true }],
     "no-implicit-coercion": ["error", {
       "string": true,
       "boolean": false,
