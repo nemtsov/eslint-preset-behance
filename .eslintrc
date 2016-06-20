@@ -42,6 +42,7 @@
     "no-multi-str": "error",
     "no-multiple-empty-lines": "error",
     "no-redeclare": "error",
+    "no-restricted-globals": ["error", "fdescribe", "fit"],
     "no-trailing-spaces": "error",
     "no-undef": "error",
     "no-unused-vars": "error",
