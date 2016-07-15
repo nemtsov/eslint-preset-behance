@@ -50,6 +50,7 @@
     "no-use-before-define": "error",
     "no-with": "error",
     "object-curly-spacing": ["error", "always"],
+    "object-shorthand": ["error", "always"],
     "one-var": ["error", "never"],
     "padded-blocks": ["error", "never"],
     "quote-props": ["error", "as-needed"],
