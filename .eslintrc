@@ -54,6 +54,7 @@
     "padded-blocks": ["error", "never"],
     "quote-props": ["error", "as-needed"],
     "quotes": ["error", "single", "avoid-escape"],
+    "rest-spread-spacing": ["error", "never"],
     "semi": "error",
     "semi-spacing": "error",
     "space-before-blocks": "error",
