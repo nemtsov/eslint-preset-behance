@@ -29,6 +29,7 @@
     "keyword-spacing": "error",
     "new-cap": ["error", "properties": false],
     "no-const-assign": "error",
+    "no-debugger": "error",
     "no-dupe-args": "error",
     "no-dupe-class-members": "error",
     "no-dupe-keys": "error",
