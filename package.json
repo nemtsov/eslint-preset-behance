@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/behance/eslint-preset-behance/issues"
   },
-  "homepage": "https://github.com/behance/eslint-preset-behance#readme"
+  "homepage": "https://github.com/behance/eslint-preset-behance#readme",
+  "peerDependencies": {
+    "eslint-plugin-behance": "^1.0.0"
+  }
 }

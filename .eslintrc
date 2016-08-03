@@ -13,6 +13,9 @@
     "define": false,
     "console": false,
   },
+  "plugins": [
+    "behance"
+  ],
   "rules": {
     "array-bracket-spacing": ["error", "never"],
     "arrow-spacing": "error",
@@ -30,6 +33,16 @@
     "new-cap": ["error", "properties": false],
     "no-const-assign": "error",
     "no-debugger": "error",
+    "behance/no-deprecated": ["warn", {
+      "imports": {
+        "nbd/util/extend": "Object.assign",
+        "nbd/Promise": "Promise"
+      },
+      "expressions": {
+        "$.extend": "Object.assign",
+        "$.ajax": "fetch"
+      }
+    }],
     "no-dupe-args": "error",
     "no-dupe-class-members": "error",
     "no-dupe-keys": "error",
