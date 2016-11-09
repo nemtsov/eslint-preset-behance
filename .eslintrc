@@ -1,6 +1,6 @@
 {
   "parserOptions": {
-    "ecmaVersion": 8,
+    "ecmaVersion": 2017,
     "sourceType": "module",
     "ecmaFeatures": {
       "experimentalObjectRestSpread": true
@@ -57,6 +57,7 @@
     }],
     "no-mixed-spaces-and-tabs": "error",
     "no-multi-str": "error",
+    "no-multi-spaces": "error",
     "no-multiple-empty-lines": "error",
     "no-redeclare": "error",
     "no-restricted-globals": ["error", "fdescribe", "fit"],
