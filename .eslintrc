@@ -17,7 +17,8 @@
     "console": false,
   },
   "plugins": [
-    "behance"
+    "behance",
+    "import",
   ],
   "rules": {
     "array-bracket-spacing": ["error", "never"],
